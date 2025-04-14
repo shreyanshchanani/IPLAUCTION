@@ -1,0 +1,7 @@
+team_id,team_name,owner_name,player_id,player_name,extra_multiplier
+T1,Team 1,Owner 1,P1,Player 1,1.0
+T1,Team 1,Owner 1,P2,Player 2,1.0
+T1,Team 1,Owner 1,P3,Player 3,1.0
+T2,Team 2,Owner 2,P4,Player 4,1.0
+T2,Team 2,Owner 2,P5,Player 5,1.0
+T2,Team 2,Owner 2,P6,Player 6,1.0 
